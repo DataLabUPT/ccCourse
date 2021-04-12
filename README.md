@@ -9,4 +9,4 @@ PaaS
 * *Cloud Functions* - Generare pdf - [cloudFunction](https://github.com/DataLabUPT/ccCourse/tree/main/cloudFunction). 
 Autor: [Bogdan Dragulescu](https://ti.etcti.upt.ro/bogdan-dragulescu/). 
 
-Pe masura ce vor fi dezvoltate exemple suplimentare lista v-a fi completata.
+Pe masura ce vor fi dezvoltate exemple suplimentare lista va fi completata.
