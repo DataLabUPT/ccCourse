@@ -1,0 +1,14 @@
+{
+   "tip": "noapte",
+   "nume": "Popescu Ionut",
+   "domiciliu": "Porumbescu 14, ap 35, Timisoara",
+   "resedinta": "",
+   "dataNastere": "01.01.1990",
+   "localitateNastere": "Timisoara",
+   "data": "05.04.2021",
+   "motive": {
+     "profesional": ["nume societate", "sediul", "punct de lucru"],
+     "medical": true
+   },
+   "semnatura": "http://locatie.jpg"
+}

@@ -1,0 +1,13 @@
+steps:
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  args:
+  - gcloud
+  - functions
+  - deploy
+  - declaratiepdf
+  - --project=<project-ID>
+  - --region=europe-west1
+  - --runtime=python37
+  - --source=.
+  - --trigger-http
+  - --allow-unauthenticated
