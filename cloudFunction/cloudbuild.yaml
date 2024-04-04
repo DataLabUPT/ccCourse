@@ -7,7 +7,7 @@ steps:
   - declaratiepdf
   - --project=<project-ID>
   - --region=europe-west1
-  - --runtime=python37
+  - --runtime=python39
   - --source=.
   - --trigger-http
   - --allow-unauthenticated

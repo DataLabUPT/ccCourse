@@ -29,7 +29,7 @@ In fisierul cloudbuild.yaml inlocuiti \<project-ID\> cu valoare obtinuta in pasu
 Utilizati orice editor doriti (pico, nano, vim).
 
 #### Pas 5. Lansati functia
-Activati Cloud Functions si Cloud Build [link] (https://cloud.google.com/functions/docs/quickstart-python)
+Activati Cloud Functions si Cloud Build [link](https://cloud.google.com/functions/docs/quickstart-python).<br>
 In interfata web a Google Cloud Platform accesati CI/CD > Cloud Build > Settings. 
 Activati optiunea pentru Cloud Functions.
 
