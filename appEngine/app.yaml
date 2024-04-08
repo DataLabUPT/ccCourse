@@ -1,0 +1,12 @@
+runtime: python39
+
+env_variables:
+  TAG_LANG: 'ro'
+  TIMESTAMP_TZ: 'Europe/Bucharest'
+
+handlers:
+- url: /
+  script: main.app
+- url: /.*
+  script: main.app
+  login: required

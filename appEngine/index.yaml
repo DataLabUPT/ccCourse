@@ -1,0 +1,8 @@
+indexes:
+
+- kind: Photos
+  properties:
+  - name: tags
+  - name: timestamp
+    direction: desc
+
