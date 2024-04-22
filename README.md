@@ -10,5 +10,7 @@ PaaS
 * *Cloud Functions* - Generare pdf - [cloudFunction](https://github.com/DataLabUPT/ccCourse/tree/main/cloudFunction). 
 Autor: [Bogdan Dragulescu](https://datalab.upt.ro/bogdan-dragulescu/). 
 * *App Engine* - Galerie foto+ - [appEngine](https://github.com/DataLabUPT/ccCourse/tree/main/appEngine). 
+* *K3s* - Next Cloud - [k3sClusterDemo](https://github.com/DataLabUPT/ccCourse/tree/main/k3sClusterDemo). 
+Autor: Paul Schuldesz.
 
 Pe masura ce vor fi dezvoltate exemple suplimentare lista va fi completata.
