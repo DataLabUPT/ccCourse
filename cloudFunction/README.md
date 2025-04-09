@@ -6,7 +6,7 @@ Formatul datelor se gaseste in fisierul rest_call.json
 Urmati pasii pentru a lansa functia in cadrul proiectului vostru din GCP.
 
 #### Pas 1. Accesati consola  
-Puteti utiliza Cloud Shell din Google Cloud PLatform sau terminalul propriu. 
+Puteti utiliza Cloud Shell din Google Cloud Platform sau terminalul propriu. 
 In a doua varianta aveti nevoie de [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
 si [gcloud](https://cloud.google.com/sdk/docs/install) instalate si configurate.
 
@@ -40,7 +40,7 @@ gcloud builds submit --config cloudbuild.yaml
 
 Ca alternativa puteti rula comanda de mai jos inlocuind \<project-ID\> cu valoarea voastra.
 ```
-gcloud functions deploy declaratiepdf --runtime python37 --trigger-http --project <project-ID> --region europe-west1 --allow-unauthenticated
+gcloud functions deploy declaratiepdf --runtime python39 --trigger-http --project <project-ID> --region europe-west1 --allow-unauthenticated --no-gen2
 ```
 Puteti vizualiza functiile active din interfata web sau ruland comanda:
 ```
