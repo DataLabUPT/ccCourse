@@ -1,4 +1,4 @@
-runtime: python39
+runtime: python310
 
 env_variables:
   TAG_LANG: 'ro'
