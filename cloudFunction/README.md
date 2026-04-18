@@ -40,7 +40,7 @@ gcloud builds submit --config cloudbuild.yaml
 
 Ca alternativa puteti rula comanda de mai jos inlocuind \<project-ID\> cu valoarea voastra.
 ```
-gcloud functions deploy declaratiepdf --runtime python39 --trigger-http --project <project-ID> --region europe-west1 --allow-unauthenticated --no-gen2
+gcloud functions deploy declaratiepdf --runtime python310 --trigger-http --project <project-ID> --region europe-west1 --allow-unauthenticated --no-gen2
 ```
 Puteti vizualiza functiile active din interfata web sau ruland comanda:
 ```
